@@ -1,16 +1,21 @@
-## Hi there 👋
+<h1 align="center">🩷 moonweptsiren 🩷</h1>
+<p align="center">Hacker · CTF Player · Pentesting Enthusiast</p>
 
-<!--
-**moonweptsiren/moonweptsiren** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌸 About Me
+Hi! I'm a curious pentesting enthusiast who loves CTFs, reverse engineering, and building little tools that make exploit work smoother. I split my time between TryHackMe practice, reading up on privilege-escalation techniques, and slowly turning notes into polished writeups. 💖
 
-Here are some ideas to get you started:
+- 🔍 Focus: offensive security, CTFs (TryHackMe / HackTheBox), privilege escalation  
+- 🧠 Current highlight: Top **6%** on TryHackMe (profile: `moonweptsiren`)  
+- 🛠️ Interests: small automation tools, exploit notes, practical writeups    
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌸 Projects (Coming Soon)
+I’m actively collecting writeups, scripts, and tools from my CTF and lab work. Contents will be added here as I tidy them up — expect clear, reproducible notes and small helper scripts.  
+
+- **CTF Writeups** → _Coming soon_: machine walkthroughs, challenge solutions, annotated steps.  
+- **Pentest Tools** → _Coming soon_: my toolbox of small helpers & one-off scripts.  
+- **Scripts** → _Coming soon_: exploit automation and workflow helpers.  
+
+## 🌺 Links
+- 🌐 TryHackMe — [moonweptsiren](https://tryhackme.com/p/moonweptsiren)    
+
+
