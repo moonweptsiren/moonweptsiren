@@ -11,7 +11,7 @@ Hi! I'm a curious pentesting enthusiast who loves CTFs, reverse engineering, and
 ## 🌸 Projects (Coming Soon)
 I’m actively collecting writeups, scripts, and tools from my CTF and lab work. Contents will be added here as I tidy them up — expect clear, reproducible notes and small helper scripts.  
 
-- **CTF Writeups** → _Coming soon_: machine walkthroughs, challenge solutions, annotated steps.  
+- **[CTF Writeups](https://github.com/moonweptsiren/writeups)** → _Coming soon_: machine walkthroughs, challenge solutions, annotated steps.  
 - **Pentest Tools** → _Coming soon_: my toolbox of small helpers & one-off scripts.  
 - **Scripts** → _Coming soon_: exploit automation and workflow helpers.  
 
