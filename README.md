@@ -5,7 +5,7 @@
 Hi! I'm a curious pentesting enthusiast who loves CTFs, reverse engineering, and building little tools that make exploit work smoother. I split my time between TryHackMe practice, reading up on privilege-escalation techniques, and slowly turning notes into polished writeups. 💖
 
 - 🔍 Focus: offensive security, CTFs (TryHackMe / HackTheBox), privilege escalation  
-- 🧠 Current highlight: Top **6%** on TryHackMe (profile: <a href="https://tryhackme.com/p/moonweptsiren">`moonweptsiren`</a>)  
+- 🧠 Current highlight: Top **5%** on TryHackMe (profile: <a href="https://tryhackme.com/p/moonweptsiren">`moonweptsiren`</a>)  
 - 🛠️ Interests: small automation tools, exploit notes, practical writeups    
 
 ## 🌸 Projects (Coming Soon)
