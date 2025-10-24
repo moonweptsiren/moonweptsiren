@@ -1,6 +1,8 @@
 <h1 align="center">🩷 moonweptsiren 🩷</h1>
 <h3 align="center">Hacker · CTF Player · Pentesting Enthusiast</h3>
 
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=5547562" style='border:none;'></iframe>
+
 ## 🌸 About Me
 Hi! I'm a curious pentesting enthusiast who loves CTFs, reverse engineering, and building little tools that make exploit work smoother. I split my time between TryHackMe practice, reading up on privilege-escalation techniques, and slowly turning notes into polished writeups. 💖
 
